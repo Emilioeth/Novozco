@@ -24,7 +24,7 @@
 	  })
 	});
 
-	
+
 	//images slide banner
 	$(".Modern-Slider").slick({
 	    autoplay:true,
@@ -69,7 +69,7 @@
 		loop:true,
 		dots: true,
 		nav: true,
-		//autoplay: true,
+		autoplay: true,
 		margin:30,
 		  responsive:{
 			  0:{
