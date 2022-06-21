@@ -931,7 +931,8 @@ services
 }
 
 .info {
-  position: relative;
+  position: fixed;
+  bottom: 200px;
   width: 100%;
   background-color: #174FCA;
   border: 1px solid #174FCA;
@@ -1464,6 +1465,72 @@ responsive
   }
 }
 
+
+@media (max-width:1259px) {
+  .info h1 {
+    font-size: 19px;
+  }
+}
+
+@media (max-width:1219px) {
+  .info h1 {
+    font-size: 18px;
+  }
+  .info {
+    bottom: 195px;
+  }
+}
+
+@media (max-width:1180px) {
+  .info h1 {
+    font-size: 17px;
+  }
+  .info {
+    bottom: 190px;
+  }
+}
+
+@media (max-width:1141px) {
+  .info h1 {
+    font-size: 16px;
+  }
+}
+
+@media (max-width:1102px) {
+  .info h1 {
+    font-size: 15px;
+  }
+}
+
+@media (max-width:1062px) {
+  .info h1 {
+    font-size: 14.5px;
+  }
+}
+
+@media (max-width:1043px) {
+  .info h1 {
+    font-size: 14px;
+  }
+}
+
+@media (max-width:1023px) {
+  .info h1 {
+    font-size: 13.5px;
+  }
+}
+
+@media (max-width:1003px) {
+  .info h1 {
+    font-size: 13px;
+  }
+}
+
+@media (max-width:999px) {
+  .info h1 {
+    font-size: 20px;
+  }
+}
 
 /* 
 ---------------------------------------------
