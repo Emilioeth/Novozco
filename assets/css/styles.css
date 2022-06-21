@@ -1411,6 +1411,7 @@ responsive
 --------------------------------------------- 
 */
 
+
 @media (max-width: 992px) {
   #top {
     padding-top: 100px;
@@ -1465,15 +1466,18 @@ responsive
   }
 }
 
+.info-es h1 {
+  font-size: 18px;
+}
 
 @media (max-width:1259px) {
-  .info h1 {
+  .info-el h1 {
     font-size: 19px;
   }
 }
 
 @media (max-width:1219px) {
-  .info h1 {
+  .info-el h1 {
     font-size: 18px;
   }
   .info {
@@ -1503,31 +1507,37 @@ responsive
 }
 
 @media (max-width:1062px) {
-  .info h1 {
+  .info-en h1 {
     font-size: 14.5px;
   }
 }
 
 @media (max-width:1043px) {
-  .info h1 {
+  .info-en h1 {
     font-size: 14px;
   }
 }
 
+@media (max-width:1043px) {
+  .info-es h1 span {
+    display: none;
+  }
+}
+
 @media (max-width:1023px) {
-  .info h1 {
+  .info-en h1 {
     font-size: 13.5px;
   }
 }
 
 @media (max-width:1003px) {
-  .info h1 {
+  .info-en h1 {
     font-size: 13px;
   }
 }
 
 @media (max-width:999px) {
-  .info h1 {
+  .info-en h1 {
     font-size: 20px;
   }
 }
