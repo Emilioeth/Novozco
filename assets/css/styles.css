@@ -1442,6 +1442,9 @@ responsive
     font-size: 14px;
     letter-spacing: 0px;
   }
+  .language-sub{
+    font-size: 14px;
+  }
   #top .left-content {
     text-align: center;
     padding: 25% 0px;
