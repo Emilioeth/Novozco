@@ -633,6 +633,17 @@ header
   }
 }
 
+@media (max-width: 767px) {
+  .language-sub {
+    padding-top: 10px !important;
+    
+  }
+}
+
+.language-sub {
+padding-top: 8px;
+font-size: 15px;
+}
 
 /* 
 ---------------------------------------------
