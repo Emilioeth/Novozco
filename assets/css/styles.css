@@ -1556,6 +1556,16 @@ responsive
   }
 }
 
+@media (max-width:599px) {
+  .info { 
+    position: relative; 
+    width: 100%;
+    bottom: -25px;
+   }
+}
+
+
+
 /* 
 ---------------------------------------------
 Pre-loader
