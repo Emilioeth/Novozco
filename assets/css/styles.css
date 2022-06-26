@@ -1557,14 +1557,65 @@ responsive
 }
 
 @media (max-width:599px) {
-  .info { 
+  .info-en { 
     position: relative; 
     width: 100%;
     bottom: -25px;
    }
 }
 
+@media (max-width:471px) {
+  .info-es { 
+    position: relative; 
+    width: 100%;
+    bottom: -25px;
+   }
+}
 
+@media (max-width:340px) {
+  .info-es { 
+    bottom: -10px;
+   }
+}
+
+@media (max-width:317px) {
+  .info-es { 
+    bottom: 0px;
+   }
+}
+
+@media (max-width:582px) {
+   .info-week p span {
+     display: none;
+   }
+}
+
+@media (max-width:579px) {
+  .info-en p {
+    font-size: 12px;
+  }
+}
+
+@media (max-width:509px) {
+  .info-en p {
+    font-size: 14px;
+  }
+  .info-cleaner, .info-heater, .info-pump {
+    bottom: 0px;
+  }
+}
+
+@media (max-width:506px) {
+  .info-filter{
+    bottom: 0px;
+  }
+}
+
+@media (max-width:482px) {
+  .info-week{
+    bottom: 0px;
+  }
+}
 
 /* 
 ---------------------------------------------
