@@ -956,7 +956,7 @@ services
 .info {
   position: fixed;
   bottom: 200px;
-  width: 100%;
+  width: 99.5%;
   background-color: #174FCA;
   border: 1px solid #174FCA;
   transform: translateY(100%)
