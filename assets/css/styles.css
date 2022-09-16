@@ -912,6 +912,11 @@ services
 ---------------------------------------------
 */
 
+.description-week a {
+  color: white;
+  font-weight: bold;
+}
+
 #services {
   margin-top: 120px;
   background-color: #fffafa;
