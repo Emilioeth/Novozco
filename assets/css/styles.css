@@ -1658,3 +1658,35 @@ Pre-loader
     opacity: 0;
   }
 }
+
+/* Coming soon section start */
+.coming-soon-body{
+  background-color: #fffafa;
+  height: 100vh;
+  width: 100vw;
+}
+.coming-soon-section{
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+.center-comingsoon {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.coming-soon-body h2 {
+  font-size: 80px;
+  color: black;
+  text-align: center;
+}
+
+.typed-cursor {
+  font-size: 80px;
+}
+
+/* Coming Soon section end */
