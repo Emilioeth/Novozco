@@ -1567,6 +1567,9 @@ responsive
   .img-fill img {
     width: 200%;
   }
+  #about {
+    padding-top: 50px;
+  }
 }
 
 
