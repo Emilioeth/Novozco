@@ -8,7 +8,7 @@
 
   [Link](https://novozco.com/)
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id= Emilioeth.Novozco&left_color=blue&right_color=blue)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Emilioeth.Novozco&left_color=blue&right_color=blue)
 
   ## Table of contents
   - [Top](#)
