@@ -1,5 +1,5 @@
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=30&pause=2000&color=0078D6&width=435&lines=Novozco;By+Emili0)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=30&pause=2000&color=2493F7&width=435&lines=Novozco;By+Emili0)
 
   ![Project Img](/assets/images/readmeIMG.png)
   
@@ -47,7 +47,7 @@
   ## Contact
   Feel Free to contact me with any further questions to any of the places listed below!
 
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ Emilioeth)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emilioeth)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:web@emili0.com)
   [![Discord](https://img.shields.io/badge/Emili0-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/345388388951654400/)
 
