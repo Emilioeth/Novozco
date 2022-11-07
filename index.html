@@ -306,14 +306,14 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="phone">
-                                    <i class="fa fa-phone"></i>
+                                    <a href="tel:346-331-7553" class="contact-btns"><i class="fa fa-phone"></i></a>
                                     <h4>Phone Number</h4>
-                                    <span><a href="tel:346-288-9779">346-288-9779</a></span>
+                                    <span><a href="tel:346-331-7553"> 346-331-7553 </a></span>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="message">
-                                    <i class="fa fa-envelope"></i>
+                                    <a href="mailto:operations@novozco.com" target="blank" class="contact-btns"><i class="fa fa-envelope"></i></a>
                                     <h4>Email</h4>
                                     <span><a href="mailto:operations@novozco.com" target="blank">Operations@novozco.com</a></span>
                                 </div>
@@ -323,7 +323,10 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="contact-form">
-                        <form id="contact" action="" method="post">
+                        <form id="contact" 
+                            action="https://formspree.io/f/xjvzjvdw"
+                            method="POST"
+                        >
                           <div class="row">
                             <div class="col-lg-12">
                                 <h4>Contact Us</h4>
@@ -394,6 +397,7 @@
     </footer>
 
     <!-- jQuery -->
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
     <script src="assets/js/jquery-2.1.0.min.js"></script>
 
     <!-- Plugins -->

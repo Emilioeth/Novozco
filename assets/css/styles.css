@@ -1363,7 +1363,12 @@ contact
 .contact-form ::placeholder {
   color: #2a2a2a;
 }
-
+.contact-btns i {
+  transition: all .4s;
+}
+.contact-btns:hover i {
+  transform: scale(1.06);
+}
 
 
 /* 
