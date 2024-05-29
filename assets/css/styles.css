@@ -1352,6 +1352,11 @@ contact
   padding: 20px;
 }
 
+.contact-form textarea#address {
+  height: 46px!important;
+  padding: 14px!important;
+}
+
 .contact-form ::-webkit-input-placeholder { /* Edge */
   color: #2a2a2a;
 }
